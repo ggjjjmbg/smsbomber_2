@@ -24,6 +24,7 @@
 1) apt update -y 
 
 2) apt upgrade -y 
+
 3) pkg install python -y
 
 4) pip install requests 

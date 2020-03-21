@@ -30,21 +30,18 @@ def banner():
     print(Fore.YELLOW)
     banner = """
 
-     ____________________________________________________
+|________________________________________________|
+                                                  
+ -- Name: SMSbomber                                  
 
-|                                                    |
+ -- Developer in telegram @D9361                                               
 
-| -- Name: SMSbomber                                 | 
+ -- Have Services: 126                             
 
-| -- Developer in telegram @D9361                                               |
+ -- Chat in telegram: @smsbomber_top                                               
 
-| -- Have Services: 126                             |
-
-| -- Chat in telegram: @smsbomber_top                                               |
-
-| -- Version: 2.0 (without tor)                               |
-
-|____________________________________________________|
+ -- Version: 2.0  (without tor)                               
+|________________________________________________|
                                                                                                                                                                                                                                           
 
     """
