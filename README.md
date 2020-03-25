@@ -43,7 +43,7 @@
 
  11)  pip install requests colorama
 
-12)  git clone https://github.com/Ivan-Hacker-700/smsbomber_2
+12)  git clone https://github.com/Dima752/smsbomber_2
 
 11)  cd smsbomber_2
 
