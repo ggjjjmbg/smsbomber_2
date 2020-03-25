@@ -47,7 +47,7 @@
 
 11)  cd smsbomber_2
 
-14)  python smsbomber_2
+14)  python smsbomber_2.py
 
 [Последующие запуски]
 
