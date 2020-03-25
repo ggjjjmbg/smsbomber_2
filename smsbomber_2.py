@@ -34,7 +34,7 @@ def banner():
                                                   
  -- Name: SMSbomber                                  
 
- -- Developer in telegram @D9361                                               
+ -- Developer in telegram @Shzhvd                                               
 
  -- Have Services: 126                             
 
