@@ -34,11 +34,12 @@ def banner():
                                                   
  -- Name: SMSbomber                                  
 
- -- Developer in telegram @D9361                                               
+
+ -- Developer in telegram @Shzhvd                                               
+
 
  -- Have Services: 126                             
-
- -- Chat in telegram: @smsbomber_top                                               
+                                               
 
  -- Version: 2.0  (without tor)                               
 |________________________________________________|
